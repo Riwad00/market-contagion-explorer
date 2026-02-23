@@ -1,5 +1,7 @@
 # Contagion Explorer (Streamlit Prototype)
 
+**Live app:** [market-contagion-explorer.streamlit.app](https://market-contagion-explorer-cw6gadz7cgqdkquxxuvykk.streamlit.app)
+
 “Contagion Explorer” is an interactive tool that monitors **cross-market connectivity** (“contagion”) across EU + US assets using **live market data (Yahoo Finance via `yfinance`)**.
 
 It answers:
